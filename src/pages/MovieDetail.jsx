@@ -20,7 +20,6 @@ const MovieDetail = () => {
         const data = await MovieDetails(movieId);
         if (data) {
           setMovie(data);
-          console.log(data);
           setIsLoading(false)
         }
       } catch (error) {

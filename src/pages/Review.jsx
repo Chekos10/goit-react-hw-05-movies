@@ -17,7 +17,6 @@ useEffect(()=>{
         try{
             const {results} = await movieReviews(movieId)
             setReview(results)
-            console.log(results)
         }catch(error){
             console.log(error)
             setIsLoading(false)

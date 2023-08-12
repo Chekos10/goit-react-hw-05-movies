@@ -14,7 +14,6 @@ const Home = () => {
         const dataMovie = await TrendDayMovies();
         if (dataMovie) {
           setDayMovie(dataMovie.results);
-          console.log(dataMovie.results);
           setIsLoading(false);
         }
       } catch (error) {
