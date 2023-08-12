@@ -1,0 +1,13 @@
+.home{
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+}
+.movies{
+    text-decoration: none;
+    color: black;
+}
+.nav{
+    padding-bottom: 10px ;
+    border-bottom: 1px solid black;
+}

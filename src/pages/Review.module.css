@@ -1,0 +1,18 @@
+.reviewsList{
+    list-style: none;
+    padding: 0;
+}
+.reviewCard{
+    margin-bottom: 15px;
+    border: 1px solid black;
+}
+.authorName{
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.reviewText{
+    padding: 0;
+    margin: 0;
+    
+}

@@ -1,0 +1,32 @@
+.photoSection{
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+}
+.backLink{
+    text-decoration: none;
+    color: black;
+    padding-bottom: 5px;
+}
+.detailsSection{
+    display: flex;
+}
+.movieTitle{
+    padding: 0;
+}
+.genresList{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.castLink{
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.reviewLink{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}

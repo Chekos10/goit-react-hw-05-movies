@@ -1,0 +1,13 @@
+.movieList{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.movieLink{
+    text-decoration: none;
+    cursor: pointer;
+}
+.movie{
+    margin-bottom:5px;
+    color: black;
+}
